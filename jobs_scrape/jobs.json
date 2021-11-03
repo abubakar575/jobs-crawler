@@ -1,0 +1,1016 @@
+[
+    {
+        "Job Title": "Staff Software Engineer, Engineering Productivity",
+        "Company": "Google",
+        "Company logo image_url": "https://i.stack.imgur.com/bONZK.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "objective-c",
+            "automated-tests",
+            "design"
+        ],
+        "Perks offered": [
+            "High-tech tools - workstations, tablets, phones and data centers.",
+            "Vacation, travel insurance and emergency assistance.",
+            "Leave for new parents and caregivers.",
+            "Reimbursements for classes or degree programs.",
+            "Healthy meals and fitness facilities provided in-office.",
+            "Comprehensive health care coverage."
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Role: ": "Mobile Developer",
+            "Industry: ": "Android, Cloud Services, Internet Infrastructure",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "Due to the current health crisis related to COVID-19 and the escalating visa/travel restrictions in place, we're currently unable to extend offers to anyone who cannot work from India due to lockdown visa/travel restrictions, or other restrictive measures until further notice. Consequently, we will be prioritizing candidates who can start in this location by set date as expected. We're keeping the situation under review and would adjust our position should the restrictive measures be removed later on.\n",
+            "Minimum qualifications:",
+            "Preferred qualifications:",
+            "A line of code can be many things - an amazing feature, a beautiful UI, a transformative algorithm. The faster this line of code reaches millions of users, the sooner it impacts their lives. As a Software Engineer, you will be at the heart of Google\u2019s engineering process building software that empowers engineering teams to develop and deliver high quality products quickly. We are focused on solving the hardest, most interesting challenges of developing software at scale without sacrificing stability, quality, velocity or code health.",
+            "We ensure Google's success by partnering with engineering teams and developing scalable tools and infrastructure that help engineers develop, test, debug and release software quickly. We impact thousands of Googlers and billions of users by increasing the pace of product development and ensuring our products are thoroughly tested. We are advocates for code health, testability, maintainability and best practices for development and testing.",
+            "Having access to all of Google's platforms and vast compute resources provides a unique opportunity to grow as an engineer. We typically work in small, nimble teams that collaborate on common problems across products and focus areas. As a result, the exposure to this broad set of problems provides diverse technical challenges as well as accelerated career growth.",
+            "Google aspires to be an organization that reflects the globally diverse audience that our products and technology serve. We believe that in addition to hiring the best talent, a diversity of perspectives, ideas and cultures leads to the creation of better products and services.",
+            "Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another."
+        ],
+        "Job link": "https://stackoverflow.com/jobs/555478/staff-software-engineer-engineering-productivity-google"
+    },
+    {
+        "Job Title": "Software Development Engineer in Test",
+        "Company": "Intel Corporation",
+        "Company logo image_url": "https://i.stack.imgur.com/rkBmz.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "automation",
+            "cloud",
+            "qa",
+            "python",
+            "kubernetes"
+        ],
+        "Perks offered": [
+            "Paid Vacations & Sabbaticals",
+            "Stock Equity Programs",
+            "Tuition Assistance, Life-Long Learning & Education",
+            "Onsite Fitness Centers",
+            "Onsite Medical & Dental",
+            "Onsite Cafes, Games & Sport Areas",
+            "Commuter Discounts, Carpool Support, Bike Share",
+            "Bonding, Military, Medical and Family Leave"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Mid-Level, Senior, Lead",
+            "Role: ": "DevOps, QA/Test Developer",
+            "Industry: ": "Cloud Computing, Consumer Electronics, Software Development / Engineering",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "Come and join us. Intel is seeking highly qualified candidates to join the BXD (Barefoot Switching Division) in our Data Platform Group (DPG) as a Software Development Engineer in Test. We're part of the Connectivity Group (CG) in Intel's DPG, and are looking for motivated, passionate and talented software test automation engineers to join our Software QA team for programmable high-speed switching ASICs. We're a strong, vibrant, cross-site team that helps drive Intel's programmable switching technology and products to position Tofino as the switching platform of choice for Cloud and Data Center network deployments. In this role, you will be responsible for automating build, release, and test infrastructure. You will have an excellent opportunity to automate tests using Intel's programmable switching ASIC using industry-leading P4 Language and work with next-generation NOS such as SONiC, FBOSS. Responsibilities will include, but are not limited to:- Develop and add to existing automation infrastructure in Python- Enhance sanity and regression framework with Docker/Kubernetes- Automate test cases using Python- Mentor and train junior engineers- L2/L3 Networking experience. The ideal candidate will have the following skills in addition to the qualifications listed below.- Must be a team player, with a demonstrated effectiveness in technically influencing others.- Strong problem-solving skills.- Excellent verbal and written communication skills. In this position, you will gain invaluable experience which will allow growth and expanded opportunities within this business group as well as future possible opportunities with other business groups within ",
+            "The Data Center Group (DCG) is at the heart of Intel\u2019s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies\u2014spanning software, processors, storage, I/O, and networking solutions\u2014that fuel cloud, communications, enterprise, and government data centers around the world.",
+            "Intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
+            "It has come to our notice that some people have received fake job interview letters ostensibly issued by Intel, inviting them to attend interviews in Intel\u2019s offices for various positions and further requiring them to deposit money to be eligible for the interviews.   We wish to bring to your notice that these letters are not issued by Intel or any of its authorized representatives. Hiring at Intel is based purely on merit and Intel does not ask or require candidates to deposit any money. We would urge people interested in working for Intel, to apply directly at ",
+            "and not fall prey to unscrupulous elements."
+        ],
+        "Job link": "https://stackoverflow.com/jobs/539336/software-development-engineer-in-test-intel-corporation"
+    },
+    {
+        "Job Title": "Graphics Software Engineer",
+        "Company": "Intel Corporation",
+        "Company logo image_url": "https://i.stack.imgur.com/rkBmz.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "windows",
+            "osx",
+            "micro-architecture",
+            "platform"
+        ],
+        "Perks offered": [
+            "Paid Vacations & Sabbaticals",
+            "Stock Equity Programs",
+            "Tuition Assistance, Life-Long Learning & Education",
+            "Onsite Fitness Centers",
+            "Onsite Medical & Dental",
+            "Onsite Cafes, Games & Sport Areas",
+            "Commuter Discounts, Carpool Support, Bike Share",
+            "Bonding, Military, Medical and Family Leave"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Mid-Level, Senior",
+            "Industry: ": "Cloud Computing, Consumer Electronics, Software Development / Engineering",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "Datacenter Platforms Engineering and Architecture Group (DPEA)is looking for talented Senior System debug engineer to secure the SW quality. In this position, you will be responsible for analyzing software and hardware issues on Intel server products to secure the quality of SW release. ",
+            "Your responsibilities will include but not be limited to:",
+            "Datacenter Engineering Group DPEA PAIV is looking for talented System debugging to secure the SW quality by analyzing critical issues raised on platform .In this position you will work with various functional teams BIOS,BMC, Graphics IP ,PCIe ,Silicon board design to enable Intel latest hardware platforms and technologies You will have a chance to touch cutting edge silicon platform power-on opportunity .",
+            "The Data Center Group (DCG) is at the heart of Intel\u2019s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies\u2014spanning software, processors, storage, I/O, and networking solutions\u2014that fuel cloud, communications, enterprise, and government data centers around the world.",
+            "Intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
+            "It has come to our notice that some people have received fake job interview letters ostensibly issued by Intel, inviting them to attend interviews in Intel\u2019s offices for various positions and further requiring them to deposit money to be eligible for the interviews.   We wish to bring to your notice that these letters are not issued by Intel or any of its authorized representatives. Hiring at Intel is based purely on merit and Intel does not ask or require candidates to deposit any money. We would urge people interested in working for Intel, to apply directly at ",
+            "and not fall prey to unscrupulous elements."
+        ],
+        "Job link": "https://stackoverflow.com/jobs/539298/graphics-software-engineer-intel-corporation"
+    },
+    {
+        "Job Title": "Network Software Engineer",
+        "Company": "Intel Corporation",
+        "Company logo image_url": "https://i.stack.imgur.com/rkBmz.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "linux",
+            "c",
+            "networking",
+            "tcp-ip",
+            "dpdk"
+        ],
+        "Perks offered": [
+            "Paid Vacations & Sabbaticals",
+            "Stock Equity Programs",
+            "Tuition Assistance, Life-Long Learning & Education",
+            "Onsite Fitness Centers",
+            "Onsite Medical & Dental",
+            "Onsite Cafes, Games & Sport Areas",
+            "Commuter Discounts, Carpool Support, Bike Share",
+            "Bonding, Military, Medical and Family Leave"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Senior, Lead",
+            "Role: ": "System Administrator",
+            "Industry: ": "Cloud Computing, Consumer Electronics, Software Development / Engineering",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "Intel's Ethernet Products Group (EPG) is seeking a Network Software engineer to join its Network Acceleration Team. This team is developing run time stack for programmable Infrastructure Processing Units (IPUs) for infrastructure acceleration workloads. Your responsivities will include: Performs network product design, development, testing, documentation, and analysis of software applications. Assignments include development of new programs and subprograms, as well as, enhancements, modifications, and corrections to existing software. Duties include designing application, writing code, completing programming and developing and executing testing and debugging routines, and documenting work and results. May be responsible for developing or executing project plans, budgets and schedules and for documentation of work and results. These positions develop software applications for external customers.",
+            "The Data Center Group (DCG) is at the heart of Intel\u2019s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies\u2014spanning software, processors, storage, I/O, and networking solutions\u2014that fuel cloud, communications, enterprise, and government data centers around the world.",
+            " L",
+            "Intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
+            "It has come to our notice that some people have received fake job interview letters ostensibly issued by Intel, inviting them to attend interviews in Intel\u2019s offices for various positions and further requiring them to deposit money to be eligible for the interviews.   We wish to bring to your notice that these letters are not issued by Intel or any of its authorized representatives. Hiring at Intel is based purely on merit and Intel does not ask or require candidates to deposit any money. We would urge people interested in working for Intel, to apply directly at ",
+            "and not fall prey to unscrupulous elements."
+        ],
+        "Job link": "https://stackoverflow.com/jobs/539257/network-software-engineer-intel-corporation"
+    },
+    {
+        "Job Title": "Software Engineer, LiquidityBridge \u2013 Java/Cloud [Remote]",
+        "Company": "MarketAxess Holdings Inc.",
+        "Company logo image_url": "https://i.stack.imgur.com/F7C9g.png",
+        "Location": "",
+        "Skills required": [
+            "java",
+            "reactjs",
+            "cloud"
+        ],
+        "Perks offered": [
+            "Health, dental, vision, life, disability and pet insurance",
+            "Mental health and wellness benefits",
+            "Up to 20 weeks paid maternity leave; 8 weeks paid paternity leave",
+            "Generous paid time off",
+            "401k match of 100% of contributions up to $10,000 of annual pay",
+            "$1000 annual fitness & wellness subsidy",
+            "Stocked kitchen",
+            "Catered lunch provided 2x a week",
+            "ESPP; we issue matching shares equal to 20% of employee purchase",
+            "Up to $2,000 per year match of any qualifying charitable cash gifts"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Industry: ": "B2B, Data & Analytics, Financial Technology",
+            "Company size: ": "501-1k people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "As a Software Engineer, you will work closely with your team to design and implement new features and products. You will learn advanced trading markets, enabling\u202fyou to fully understand the \u201cbig picture\u201d of not only what you are developing, but why and how it benefits our customers. At the same time, you will be challenged and pushed out of your comfort zone, by directly working with the business unit and learning new and innovative\u202ftechnologies. ",
+            "In addition to working on cutting edge technology and being more than a number in our lean and collaborative team, we offer: ",
+            "MarketAxess Corporation and its affiliates provide equal employment opportunities to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, veteran status or any other characteristic prohibited by federal and state law. ",
+            "#SO",
+            "All your information will be kept confidential according to EEO guidelines."
+        ],
+        "Job link": "https://stackoverflow.com/jobs/549972/software-engineer-liquiditybridge-java-cloud-marketaxess-holdings-inc"
+    },
+    {
+        "Job Title": "Associate - Java Developer",
+        "Company": "JPMorgan Chase & Co.",
+        "Company logo image_url": "https://i.stack.imgur.com/RsT3S.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "java"
+        ],
+        "Perks offered": [
+            "Healthcare and Insurance Plans",
+            "Wellness Programs",
+            "Maternity and Paternity Leave, Adoption Assistance",
+            "Retirement Savings Programs",
+            "Paid Time Off",
+            "Tuition Assistance",
+            "Access to Arts and Entertainment Program",
+            "Stock Purchase Plan",
+            "Charitable Contribution Matching",
+            "Learning & Development Resources"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Mid-Level",
+            "Industry: ": "Financial Services",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "This role requires a wide variety of strengths and capabilities, including:"
+        ],
+        "Job link": "https://stackoverflow.com/jobs/543548/associate-java-developer-jpmorgan-chase-co"
+    },
+    {
+        "Job Title": "Software Engineer - Networking Applications",
+        "Company": "Intel Corporation",
+        "Company logo image_url": "https://i.stack.imgur.com/rkBmz.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "networking",
+            "c++",
+            "c",
+            "network-protocols"
+        ],
+        "Perks offered": [
+            "Paid Vacations & Sabbaticals",
+            "Stock Equity Programs",
+            "Tuition Assistance, Life-Long Learning & Education",
+            "Onsite Fitness Centers",
+            "Onsite Medical & Dental",
+            "Onsite Cafes, Games & Sport Areas",
+            "Commuter Discounts, Carpool Support, Bike Share",
+            "Bonding, Military, Medical and Family Leave"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Mid-Level, Lead, Manager",
+            "Role: ": "System Administrator",
+            "Industry: ": "Cloud Computing, Consumer Electronics, Software Development / Engineering",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "Come and join us. Intel is seeking highly qualified candidates to join the BXD (Barefoot Switching Division) in our Data Center Group (DCG) as a Software Engineer - Networking Applications. We're part of the Connectivity Group (CG) in Intel's DCG, and are looking for motivated, passionate and talented software engineers to join our Networking Applications development team for programmable high-speed switching ASICs.",
+            "We're a strong, vibrant, cross-site team that helps drive Intel's programmable switching technology and products to position Tofino as the switching platform of choice for Cloud and Data Center network deployments. In this role, you will need to be passionate about developing high-performance embedded software based on Linux to develop Networking Applications for programmable switching ASICs. You will have an excellent opportunity to define and create Applications using Intel's programmable switching ASIC using industry leading P4 Language and work with next generation NOS such as SONiC, FBOSS.",
+            "Responsibilities will include, but are not limited to: -",
+            "The Connectivity Group (CG) drives new products technologies in the areas of Programmable switching devices, and Smart NICs, Silicon Photonics for data center fabrics. The BXD team is driven by deep engineering skills and a love of cutting-edge projects. We are building the world's fastest switches that are also fully programmable, ensuring the network can adapt to meet the emerging needs of applications and empower users to write solutions rapidly, and to innovate broadly. We believe that when the network is fully programmable-that is, both the control plane and data plane are under the control of the end user- the networking industry will enjoy the same innovative explosion as we have seen in software. www.intel.com/jobs/datacenter",
+            "You must possess the below minimum qualifications to be initially considered for this position Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates",
+            "Minimum Required Qualifications",
+            "Additional Preferred Qualifications",
+            "The Data Center Group (DCG) is at the heart of Intel\u2019s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies\u2014spanning software, processors, storage, I/O, and networking solutions\u2014that fuel cloud, communications, enterprise, and government data centers around the world.",
+            "Intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation, or any other legally protected status.",
+            "It has come to our notice that some people have received fake job interview letters ostensibly issued by Intel, inviting them to attend interviews in Intel\u2019s offices for various positions and further requiring them to deposit money to be eligible for the interviews.   We wish to bring to your notice that these letters are not issued by Intel or any of its authorized representatives. Hiring at Intel is based purely on merit and Intel does not ask or require candidates to deposit any money. We would urge people interested in working for Intel, to apply directly at ",
+            "and not fall prey to unscrupulous elements."
+        ],
+        "Job link": "https://stackoverflow.com/jobs/539242/software-engineer-networking-applications-intel-corporation"
+    },
+    {
+        "Job Title": "Software Development Engineer",
+        "Company": "Intel Corporation",
+        "Company logo image_url": "https://i.stack.imgur.com/rkBmz.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "c",
+            "c++",
+            "networking",
+            "cuda",
+            "mpi"
+        ],
+        "Perks offered": [
+            "Paid Vacations & Sabbaticals",
+            "Stock Equity Programs",
+            "Tuition Assistance, Life-Long Learning & Education",
+            "Onsite Fitness Centers",
+            "Onsite Medical & Dental",
+            "Onsite Cafes, Games & Sport Areas",
+            "Commuter Discounts, Carpool Support, Bike Share",
+            "Bonding, Military, Medical and Family Leave"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Mid-Level, Senior, Lead",
+            "Role: ": "System Administrator",
+            "Industry: ": "Cloud Computing, Consumer Electronics, Software Development / Engineering",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "Come and join us. Intel is seeking highly qualified candidates to join BXD, Barefoot Switching Division in our Data Platform Group as a Software Development Engineer- Data Plane. We're part of the Connectivity Group inside Intels DPG, and we're looking for motivated, passionate and talented software engineers to join our Advanced Applications team.",
+            "We're a strong, vibrant cross-site team that helps drive Intels programmable switching technology and products to position Intel Tofino as the switching platform of choice and for the Cloud and Data Center network deployments.",
+            "In this role, you will need to be passionate about developing high-performance networking software applications. You will have an excellent opportunity to shape the future switching features in Intels programmable switching products.",
+            "The ideal candidate is someone with a strong background in computing and software engineering, in particular with regard to machine learning, networking, and distributed systems.",
+            "This position involves working with cutting-edge network applications, including computational networking to accelerate throughput bounded workflows. The ideal candidate will be able to identify bottlenecks in the networking and communications patterns and developing techniques based on data-plane programming to optimize both hardware and software components of the workload.",
+            "Job Responsibilities",
+            "The ideal candidate will exhibit the following behavioral traits",
+            "The Data Center Group (DCG) is at the heart of Intel\u2019s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies\u2014spanning software, processors, storage, I/O, and networking solutions\u2014that fuel cloud, communications, enterprise, and government data centers around the world",
+            "Intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
+            "It has come to our notice that some people have received fake job interview letters ostensibly issued by Intel, inviting them to attend interviews in Intel\u2019s offices for various positions and further requiring them to deposit money to be eligible for the interviews.   We wish to bring to your notice that these letters are not issued by Intel or any of its authorized representatives. Hiring at Intel is based purely on merit and Intel does not ask or require candidates to deposit any money. We would urge people interested in working for Intel, to apply directly at ",
+            "and not fall prey to unscrupulous elements."
+        ],
+        "Job link": "https://stackoverflow.com/jobs/539337/software-development-engineer-intel-corporation"
+    },
+    {
+        "Job Title": "Software Engineering Manager",
+        "Company": "Intel Corporation",
+        "Company logo image_url": "https://i.stack.imgur.com/rkBmz.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "linux",
+            "c",
+            "windows",
+            "virtualization"
+        ],
+        "Perks offered": [
+            "Paid Vacations & Sabbaticals",
+            "Stock Equity Programs",
+            "Tuition Assistance, Life-Long Learning & Education",
+            "Onsite Fitness Centers",
+            "Onsite Medical & Dental",
+            "Onsite Cafes, Games & Sport Areas",
+            "Commuter Discounts, Carpool Support, Bike Share",
+            "Bonding, Military, Medical and Family Leave"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Senior, Manager",
+            "Industry: ": "Cloud Computing, Consumer Electronics, Software Development / Engineering",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "Intel's Ethernet Products Group (EPG) is seeking a Software Engineering Manager to its Network Acceleration Team. This team is developing IPDK for programmable Infrastructure Processing Units (IPUs) for infrastructure acceleration workloads. Your responsivities will include: As a manager, set priorities for the team, get results across boundaries, ensure an inclusive work environment, develop employees, and manage performance. Manages a team of software professionals including but not limited to engineers, architects, technical writers and technical consultants who are responsible for delivering results over many areas of the software lifecycle: design, developing, debugging, validating, and optimization, customer engagement and product support. This might include systems software, drivers, high performance computing, development tools, enterprise applications, consumer applications or user interfaces. May also be required to provide architectural and technical guidance, and ensure that sound engineering practices are followed. Provides direction and goals to the group and interacts with stakeholders both internal and external.",
+            " ",
+            "Manages a team of software professionals who are responsible for building IPDK Software stack for IPUs(Infrastructure Processing Unit)/smartNICs supporting Linux, Windows and VMWare ESX OSs. Provides technical guidance and oversees execution of Software development.",
+            "The Data Center Group (DCG) is at the heart of Intel\u2019s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies\u2014spanning software, processors, storage, I/O, and networking solutions\u2014that fuel cloud, communications, enterprise, and government data centers around the world.",
+            "Intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
+            "It has come to our notice that some people have received fake job interview letters ostensibly issued by Intel, inviting them to attend interviews in Intel\u2019s offices for various positions and further requiring them to deposit money to be eligible for the interviews.   We wish to bring to your notice that these letters are not issued by Intel or any of its authorized representatives. Hiring at Intel is based purely on merit and Intel does not ask or require candidates to deposit any money. We would urge people interested in working for Intel, to apply directly at ",
+            "and not fall prey to unscrupulous elements."
+        ],
+        "Job link": "https://stackoverflow.com/jobs/539256/software-engineering-manager-intel-corporation"
+    },
+    {
+        "Job Title": "Security Software Developer/Architect",
+        "Company": "Intel Corporation",
+        "Company logo image_url": "https://i.stack.imgur.com/rkBmz.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "security",
+            "java",
+            "design",
+            "server"
+        ],
+        "Perks offered": [
+            "Paid Vacations & Sabbaticals",
+            "Stock Equity Programs",
+            "Tuition Assistance, Life-Long Learning & Education",
+            "Onsite Fitness Centers",
+            "Onsite Medical & Dental",
+            "Onsite Cafes, Games & Sport Areas",
+            "Commuter Discounts, Carpool Support, Bike Share",
+            "Bonding, Military, Medical and Family Leave"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Senior, Lead",
+            "Role: ": "Database Administrator",
+            "Industry: ": "Cloud Computing, Consumer Electronics, Software Development / Engineering",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "Intel is in the midst of an exciting transformation going beyond a company that makes the worlds best chips to one that also delivers wonderful experiences for people With help from talented employees like you we will tightly integrate hardware software and end-to-end solutions to deliver compelling experiences",
+            "About this position",
+            "Then come join the Security System Software team within Intel's Product Assurance and Security organization where youll find a challenging fun environment and people that love teamwork This is an advanced product development team that focuses on delivering security solutions on IA across client data center and IOT platforms We invent design and implement security solutions on Intels platforms in a fastpaced teamoriented work environment This is a great opportunity to work within a highly regarded team and to work across geos to deliver leading edge solutions based on rapidly growing and evolving security technologies",
+            "The position will involve technical leadership working on different software-hardware architectures designing and developing code to meet the security rigors of new products and customer interaction",
+            " What you will do",
+            "Required Qualifications",
+            "Preferred Qualifications ",
+            "The Design Engineering Group is a worldwide team responsible for the design, development, validation, and manufacturing of IPs and SOCs. Our mission is to deliver leadership products through groundbreaking innovations.",
+            "Intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
+            "It has come to our notice that some people have received fake job interview letters ostensibly issued by Intel, inviting them to attend interviews in Intel\u2019s offices for various positions and further requiring them to deposit money to be eligible for the interviews.   We wish to bring to your notice that these letters are not issued by Intel or any of its authorized representatives. Hiring at Intel is based purely on merit and Intel does not ask or require candidates to deposit any money. We would urge people interested in working for Intel, to apply directly at ",
+            "and not fall prey to unscrupulous elements."
+        ],
+        "Job link": "https://stackoverflow.com/jobs/539295/security-software-developer-architect-intel-corporation"
+    },
+    {
+        "Job Title": "iOS Developer (Objective-C/Swift/Cocoa Touch)  - SAP Engineering Academy (3-7 Yrs)",
+        "Company": "SAP",
+        "Company logo image_url": "https://i.stack.imgur.com/FJ0PR.jpg",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "ios",
+            "objective-c",
+            "swift"
+        ],
+        "Perks offered": [
+            "Paid Family Leave",
+            "Enhanced Transgender Benefits",
+            "Health, Life, Dental Insurance",
+            "Competitive Salaries",
+            "Stock Program",
+            "Friendly & Collaborative Work Culture",
+            "Flexible Work Arrangements",
+            "Choose Your Own Hardware",
+            "Continuous Learning & Development",
+            "Ability to Work on Projects Outside of Daily Role"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Role: ": "Mobile Developer",
+            "Industry: ": "Cloud Services, Customer Experience Management, Enterprise Software",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [],
+        "Job link": "https://stackoverflow.com/jobs/534021/ios-developer-objective-c-swift-cocoa-touch-sap"
+    },
+    {
+        "Job Title": "Deep Learning Software Engineer (media software)",
+        "Company": "Intel Corporation",
+        "Company logo image_url": "https://i.stack.imgur.com/rkBmz.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "c++",
+            "python",
+            "c",
+            "linux-device-driver",
+            "hevc"
+        ],
+        "Perks offered": [
+            "Paid Vacations & Sabbaticals",
+            "Stock Equity Programs",
+            "Tuition Assistance, Life-Long Learning & Education",
+            "Onsite Fitness Centers",
+            "Onsite Medical & Dental",
+            "Onsite Cafes, Games & Sport Areas",
+            "Commuter Discounts, Carpool Support, Bike Share",
+            "Bonding, Military, Medical and Family Leave"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Senior, Lead",
+            "Role: ": "Embedded Developer",
+            "Industry: ": "Cloud Computing, Consumer Electronics, Software Development / Engineering",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "\ufffd Qualifications Education: B.Tech/M.Tech CS from reputed institute Experience: 10-15 years of relevant experience Behavioral traits: Problem-solving Skills - Ability to Multitask - Strong Written and Verbal Communication Skills - Ability to Work in a Dynamic Team-Oriented environment Proficiency in C, C++, Standard Template Library (STL) and python, Working Experience of Developing and Validating Linux Device Drivers, Tensorflow applicatons, DALI familiarity. Experience in Developing and validating Device drivers, Experience of working on Complex SOC's SW Stack, Ability to understand Hardware Features from data sheets. Prior working knowledge of video decoding accelerated in HW ansd Knowledge of Machine Learning algorithms, Agile development process, Continuous Integration, Jenkins etc. would be required.",
+            "The Data Center Group (DCG) is at the heart of Intel\u2019s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies\u2014spanning software, processors, storage, I/O, and networking solutions\u2014that fuel cloud, communications, enterprise, and government data centers around the world.",
+            "Intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
+            "It has come to our notice that some people have received fake job interview letters ostensibly issued by Intel, inviting them to attend interviews in Intel\u2019s offices for various positions and further requiring them to deposit money to be eligible for the interviews.   We wish to bring to your notice that these letters are not issued by Intel or any of its authorized representatives. Hiring at Intel is based purely on merit and Intel does not ask or require candidates to deposit any money. We would urge people interested in working for Intel, to apply directly at ",
+            "and not fall prey to unscrupulous elements."
+        ],
+        "Job link": "https://stackoverflow.com/jobs/539260/deep-learning-software-engineer-media-software-intel-corporation"
+    },
+    {
+        "Job Title": "Software DevOps Engineer",
+        "Company": "Intel Corporation",
+        "Company logo image_url": "https://i.stack.imgur.com/rkBmz.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "linux",
+            "cloud",
+            "continuous-integration",
+            "python",
+            "automation"
+        ],
+        "Perks offered": [
+            "Paid Vacations & Sabbaticals",
+            "Stock Equity Programs",
+            "Tuition Assistance, Life-Long Learning & Education",
+            "Onsite Fitness Centers",
+            "Onsite Medical & Dental",
+            "Onsite Cafes, Games & Sport Areas",
+            "Commuter Discounts, Carpool Support, Bike Share",
+            "Bonding, Military, Medical and Family Leave"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Junior, Mid-Level",
+            "Role: ": "DevOps",
+            "Industry: ": "Cloud Computing, Consumer Electronics, Software Development / Engineering",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "We are looking for a passionate software DevOps engineer who has strong hands-on skills in Linux based build automation, CI/CD, and DevOps tools. The candidate will work in a highly collaborative and dynamic environment. The candidate will be part of a Global Software Engineering team. The candidate will work closely with development and validation teams to improve the quality of workflows around build, test, and release cycle.",
+            "Required Qualifications:",
+            "Desired Qualifications:",
+            "The Data Center Group (DCG) is at the heart of Intel\u2019s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies\u2014spanning software, processors, storage, I/O, and networking solutions\u2014that fuel cloud, communications, enterprise, and government data centers around the world.",
+            "Intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
+            "It has come to our notice that some people have received fake job interview letters ostensibly issued by Intel, inviting them to attend interviews in Intel\u2019s offices for various positions and further requiring them to deposit money to be eligible for the interviews.   We wish to bring to your notice that these letters are not issued by Intel or any of its authorized representatives. Hiring at Intel is based purely on merit and Intel does not ask or require candidates to deposit any money. We would urge people interested in working for Intel, to apply directly at ",
+            "and not fall prey to unscrupulous elements."
+        ],
+        "Job link": "https://stackoverflow.com/jobs/539296/software-devops-engineer-intel-corporation"
+    },
+    {
+        "Job Title": "Cloud Software Development Engineer",
+        "Company": "Intel Corporation",
+        "Company logo image_url": "https://i.stack.imgur.com/rkBmz.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "linux",
+            "cloud",
+            "windows",
+            "c++",
+            "vmware"
+        ],
+        "Perks offered": [
+            "Paid Vacations & Sabbaticals",
+            "Stock Equity Programs",
+            "Tuition Assistance, Life-Long Learning & Education",
+            "Onsite Fitness Centers",
+            "Onsite Medical & Dental",
+            "Onsite Cafes, Games & Sport Areas",
+            "Commuter Discounts, Carpool Support, Bike Share",
+            "Bonding, Military, Medical and Family Leave"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Mid-Level, Senior",
+            "Role: ": "System Administrator",
+            "Industry: ": "Cloud Computing, Consumer Electronics, Software Development / Engineering",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "The team is looking for a world-class software engineer with Linux and/or vSphere driver development experience to join the driver development team. The engineer will work in a highly collaborative and dynamic environment. The successful candidate should have solid system software development experience and have the ability to work with cross geo stakeholders. The work involves enabling next generation Intel technologies on the industry leading virtualization platform. This is an excellent opportunity for someone to grow their career and influence Intel's growth in the data center technologies.",
+            "Degree in Computer Science/Engineering with 4+ years of experience",
+            "Solid understanding of computer architecture and server platform hardware",
+            "Expertise in device driver development in C/C++",
+            "Expertise with internals of Linux and/or Windows operating systems",
+            "Excellent troubleshooting and problem solving skills",
+            "Excellent verbal and written communication skills.",
+            "Desired Qualifications:",
+            "Worked with VMM technologies like VMware/Xen/KVM/Hyper-V Experience",
+            "Knowledgeable about FPGA, SR-IOV, SIOV, DMA and PCIe.",
+            "The Data Center Group (DCG) is at the heart of Intel\u2019s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies\u2014spanning software, processors, storage, I/O, and networking solutions\u2014that fuel cloud, communications, enterprise, and government data centers around the world.",
+            "Intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
+            "It has come to our notice that some people have received fake job interview letters ostensibly issued by Intel, inviting them to attend interviews in Intel\u2019s offices for various positions and further requiring them to deposit money to be eligible for the interviews.   We wish to bring to your notice that these letters are not issued by Intel or any of its authorized representatives. Hiring at Intel is based purely on merit and Intel does not ask or require candidates to deposit any money. We would urge people interested in working for Intel, to apply directly at ",
+            "and not fall prey to unscrupulous elements."
+        ],
+        "Job link": "https://stackoverflow.com/jobs/539259/cloud-software-development-engineer-intel-corporation"
+    },
+    {
+        "Job Title": "Senior Staff Software Engineer",
+        "Company": "Google",
+        "Company logo image_url": "https://i.stack.imgur.com/bONZK.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "cloud",
+            "java",
+            "design"
+        ],
+        "Perks offered": [
+            "High-tech tools - workstations, tablets, phones and data centers.",
+            "Vacation, travel insurance and emergency assistance.",
+            "Leave for new parents and caregivers.",
+            "Reimbursements for classes or degree programs.",
+            "Healthy meals and fitness facilities provided in-office.",
+            "Comprehensive health care coverage."
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Industry: ": "Android, Cloud Services, Internet Infrastructure",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "Minimum qualifications:",
+            "Preferred qualifications:",
+            "Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google\u2019s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.",
+            "The Data, Insights and Core Engineering team builds systems to support publishing of trustworthy and up-to-date resource costs along with projections, utilization, efficiency, and inventory metrics to drive data-based economically optimal decisions for Google's compute, storage, and network, directly impacting infrastructure planning.",
+            "Google Cloud provides organizations with leading infrastructure, platform capabilities and industry solutions. We deliver enterprise-grade cloud solutions that leverage Google\u2019s cutting-edge technology to help companies operate more efficiently and adapt to changing needs, giving customers a foundation for the future. Customers in more than 150 countries turn to Google Cloud as their trusted partner to solve their most critical business problems."
+        ],
+        "Job link": "https://stackoverflow.com/jobs/555473/senior-staff-software-engineer-google"
+    },
+    {
+        "Job Title": "Full Stack Lead/Architect (Sr. Deep Learning R and D Engineer)",
+        "Company": "Intel Corporation",
+        "Company logo image_url": "https://i.stack.imgur.com/rkBmz.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "c++",
+            "python",
+            "qt",
+            "deep-learning",
+            "pytorch"
+        ],
+        "Perks offered": [
+            "Paid Vacations & Sabbaticals",
+            "Stock Equity Programs",
+            "Tuition Assistance, Life-Long Learning & Education",
+            "Onsite Fitness Centers",
+            "Onsite Medical & Dental",
+            "Onsite Cafes, Games & Sport Areas",
+            "Commuter Discounts, Carpool Support, Bike Share",
+            "Bonding, Military, Medical and Family Leave"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Senior, Lead, Manager",
+            "Role: ": "Full Stack Developer",
+            "Industry: ": "Cloud Computing, Consumer Electronics, Software Development / Engineering",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "The Data Center Group (DCG) is at the heart of Intel\u2019s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies\u2014spanning software, processors, storage, I/O, and networking solutions\u2014that fuel cloud, communications, enterprise, and government data centers around the world",
+            "Intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
+            "It has come to our notice that some people have received fake job interview letters ostensibly issued by Intel, inviting them to attend interviews in Intel\u2019s offices for various positions and further requiring them to deposit money to be eligible for the interviews.   We wish to bring to your notice that these letters are not issued by Intel or any of its authorized representatives. Hiring at Intel is based purely on merit and Intel does not ask or require candidates to deposit any money. We would urge people interested in working for Intel, to apply directly at ",
+            "and not fall prey to unscrupulous elements."
+        ],
+        "Job link": "https://stackoverflow.com/jobs/539294/full-stack-lead-architect-sr-deep-learning-r-intel-corporation"
+    },
+    {
+        "Job Title": "Developer : JAVA and NodeJS",
+        "Company": "SAP",
+        "Company logo image_url": "https://i.stack.imgur.com/FJ0PR.jpg",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "java",
+            "cloud",
+            "node.js"
+        ],
+        "Perks offered": [
+            "Paid Family Leave",
+            "Enhanced Transgender Benefits",
+            "Health, Life, Dental Insurance",
+            "Competitive Salaries",
+            "Stock Program",
+            "Friendly & Collaborative Work Culture",
+            "Flexible Work Arrangements",
+            "Choose Your Own Hardware",
+            "Continuous Learning & Development",
+            "Ability to Work on Projects Outside of Daily Role"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Industry: ": "Cloud Services, Customer Experience Management, Enterprise Software",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "    SAP CIM Innovation Engineering (Previously known as Innovative Business Solutions (IBSO)) is a global organization dedicated to delivering innovative solutions to meet our customers\u2019 unique business process needs. We deliver a full lifecycle of customer specific development services \u2013 from strategic planning, risk assessment, development, and quality assurance to maintenance. With development centre\u2019s in the United States, Canada, Germany, India, China, and Japan, we leverage a global delivery model that utilizes the specific strengths of each location. ",
+            "In your role as Developer, you have the opportunity to work on the entire lifecycle of development projects, both customer specific and SAP-defined. This includes the analysis and specification of the customer-specific business requirements as well as the design, implementation, maintenance and in case of cloud services operation of customer-specific solutions.",
+            "\u2022    3-6 years of relevant experience in software development in skills listed below",
+            "\u2022    Strong programming background of/Experience in JAVA, NodeJS , Java Spring Framework",
+            "\u2022    Experience in cloud-based development using BTP, Cloud Foundry, Docker, AWS or Azure",
+            "\u2022    Understanding of UI technologies : Ui5, Fiori, React.js, JavaScript, Devops Tools (e.g. Jenkins)",
+            "\u2022    Understanding of cloud native architecture & development",
+            "\u2022    Experience in REST API implementation",
+            "\u2022    Understanding of OData, CDS views, any Database preferably HANA",
+            "\u2022    Ensure excellent quality and maintain high standards in all processes listed in the relevant process map ",
+            "\u2022    Work with geographically distributed teams seamlessly",
+            "\u2022    Masters or Bachelor\u2019s degree in Engineering from a premiere institute with excellent academic records",
+            "#SOFEJP"
+        ],
+        "Job link": "https://stackoverflow.com/jobs/550150/developer-java-and-nodejs-sap"
+    },
+    {
+        "Job Title": "Senior Software Engineer",
+        "Company": "Intel Corporation",
+        "Company logo image_url": "https://i.stack.imgur.com/rkBmz.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "c",
+            "python",
+            "design",
+            "python-3.x",
+            "aiml"
+        ],
+        "Perks offered": [
+            "Paid Vacations & Sabbaticals",
+            "Stock Equity Programs",
+            "Tuition Assistance, Life-Long Learning & Education",
+            "Onsite Fitness Centers",
+            "Onsite Medical & Dental",
+            "Onsite Cafes, Games & Sport Areas",
+            "Commuter Discounts, Carpool Support, Bike Share",
+            "Bonding, Military, Medical and Family Leave"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Junior, Mid-Level",
+            "Industry: ": "Cloud Computing, Consumer Electronics, Software Development / Engineering",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "This role will be part of the Intel Internet Things Developer Enabling in creating the next generation of workflows and user experience for edge developers and operators The IoT edge is a fastgrowing market driving complex workloads like AI and realtime control You will work with a global community of experts from inside and outside Intel in defining the product and making it successful with the earlier adapter customersIn this role you will Design Develop and Deploy applications based on Computer vision document and validate features related Intel Edge compute nodes You will also directly respond and engage with customers ISVs OEMODM partners and System Integrators to enable AI edge solutionsThis position is for you if you",
+            "An ideal candidate will display the following traits",
+            "Qualifications",
+            "Senior Developer Responsibilities",
+            "Employees of the Internet of Things Solutions Group (IOTG) have an exciting opportunity before them: To grow Intel's leadership position in the rapidly evolving IoT market by delivering the best silicon, software and services that meet a wide range of customer requirements - from Intel\u00ae Xeon\u00ae to Intel\u00ae Quark\u00ae. The group, a fresh, dynamic collaboration between Intel's Intelligent Solutions Group and Wind River Systems, utilizes assets from across all of Intel in such areas as industrial automation, retail, automobiles and aerospace. The IOTG team is dedicated to helping Intel drive the next major growth inflection through productivity and new business models that are emerging as a result of IoT.",
+            "Intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
+            "It has come to our notice that some people have received fake job interview letters ostensibly issued by Intel, inviting them to attend interviews in Intel\u2019s offices for various positions and further requiring them to deposit money to be eligible for the interviews.   We wish to bring to your notice that these letters are not issued by Intel or any of its authorized representatives. Hiring at Intel is based purely on merit and Intel does not ask or require candidates to deposit any money. We would urge people interested in working for Intel, to apply directly at ",
+            "and not fall prey to unscrupulous elements."
+        ],
+        "Job link": "https://stackoverflow.com/jobs/539300/senior-software-engineer-intel-corporation"
+    },
+    {
+        "Job Title": "Development Architect - Cloud Java",
+        "Company": "SAP",
+        "Company logo image_url": "https://i.stack.imgur.com/FJ0PR.jpg",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "cloud",
+            "java",
+            "reactjs"
+        ],
+        "Perks offered": [
+            "Paid Family Leave",
+            "Enhanced Transgender Benefits",
+            "Health, Life, Dental Insurance",
+            "Competitive Salaries",
+            "Stock Program",
+            "Friendly & Collaborative Work Culture",
+            "Flexible Work Arrangements",
+            "Choose Your Own Hardware",
+            "Continuous Learning & Development",
+            "Ability to Work on Projects Outside of Daily Role"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Industry: ": "Cloud Services, Customer Experience Management, Enterprise Software",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [],
+        "Job link": "https://stackoverflow.com/jobs/548421/development-architect-cloud-java-sap"
+    },
+    {
+        "Job Title": "Architect (Java Full Stack) - SAP Ariba Tech. India (12+ Yrs.)",
+        "Company": "SAP",
+        "Company logo image_url": "https://i.stack.imgur.com/FJ0PR.jpg",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "java",
+            "cloud",
+            "agile"
+        ],
+        "Perks offered": [
+            "Paid Family Leave",
+            "Enhanced Transgender Benefits",
+            "Health, Life, Dental Insurance",
+            "Competitive Salaries",
+            "Stock Program",
+            "Friendly & Collaborative Work Culture",
+            "Flexible Work Arrangements",
+            "Choose Your Own Hardware",
+            "Continuous Learning & Development",
+            "Ability to Work on Projects Outside of Daily Role"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Role: ": "Full Stack Developer",
+            "Industry: ": "Cloud Services, Customer Experience Management, Enterprise Software",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [],
+        "Job link": "https://stackoverflow.com/jobs/550195/architect-java-full-stack-sap-ariba-tech-sap"
+    },
+    {
+        "Job Title": "Full Stack Engineer(React, Redux,  Angular, Node)",
+        "Company": "buildit",
+        "Company logo image_url": "https://i.stack.imgur.com/1J6ah.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "reactjs",
+            "angularjs",
+            "redux",
+            "node.js"
+        ],
+        "Perks offered": [
+            "Company MacBook Pro",
+            "Regular onsite socials, meetups and events",
+            "Commitment to your training and development",
+            "Flexible benefits tailored to your needs, including commuter benefits",
+            "Pension",
+            "Healthcare, Dental, Vision and Life Assurance for you and your family",
+            "Flexible approach to working",
+            "Daily free breakfast"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Mid-Level",
+            "Role: ": "Frontend Developer, Full Stack Developer",
+            "Industry: ": "Consulting, Information Technology, IT Consulting",
+            "Company size: ": "51-200 people",
+            "Company type: ": "Private"
+        },
+        "Description": [
+            "We are a specialist engineering practice within iDEAS/Wipro. We are structured as engineering and co-innovation studios globally.",
+            "We help our customers with design and build cloud-native business applications, accelerate product engineering and solve complex business problems through targeted intervention, leveraging multi-disciplinary - tools and modern engineering best practices.",
+            "Our global co-innovation studios are structured to enable our enterprise customers to learn and co-create new products by working side-by-side with our high-performance engineering team to develop MVP or fully featured products or technical business solutions at a rapid pace from ideation, design and architecture to industrialization with end-to-end accountability.",
+            "What we do:",
+            "\u00b7 ",
+            ": Targeted intervention to solve highly complex engineering problems or rescue at-risk engagements by a small group of experts.",
+            "\u00b7 ",
+            ": designed to help our customers to co-create tangible products in record time. From concept, design, architecture, rapid prototyping, MVP to industrialization.",
+            "\u00b7 ",
+            ": Fully customized high-impact training courses taught by practitioners (Agile, Lean etc.)",
+            "What you'll do",
+            "\u00b7 Consultative Engineering \u2013 Identify, articulate, and influence the shape of business outcomes through platform solutions across the business and technology landscape and across the lifecycle from concept, through realisation into production and back again. You will be able to balance the books between technology purism, best-practice, and solution-fit.",
+            "\u00b7 Collaborative Solutioning \u2013 We are looking for people who want to work in cross-functional teams, and want to help others learn how to build them, and why they're valuable; people with a grasp of a variety of technologies, languages, and methodologies, along with their pros and cons.",
+            "\u00b7 This role may require domestic or international travel, working directly at client location",
+            "\u00b7 5+ years of experience.",
+            "\u00b7 You have excellent knowledge of JavaScript (ES7+), solid HTML5 and CSS3, CSS pre-processors, automated testing, familiar with design systems, working hand in hand with UX and UI teams. Good knowledge in web accessibility testing.",
+            "\u00b7 You have excellent front-end development experience with React.js, Redux (flux architecture) React-hooks or Angular",
+            "\u00b7 Good hands-on knowledge in at least one of the following backend related technology",
+            "(Java, Kotlin, Node.js, Go or Python)",
+            "\u00b7 Working knowledge of platform and systems architecture \u2013 modular monoliths, SOA/micro-services, including enabling tools and technologies (Spring Cloud, Docker, OpenShift, Kubernetes, CloudFoundry, etc.)",
+            "\u00b7 Working knowledge of enabling technologies, principles, and practices of Continuous Integration, Delivery, and Deployment (Jenkins, Bamboo, Circle CI or equivalent)",
+            "\u00b7 You are familiar with modern front-end design principles; off-line and mobile first, responsive design, progressive web apps, living style guides and atomic design.",
+            "\u00b7 You are familiar with the practices of TDD and BDD and write unit, functional, integration and system tests for your code",
+            "\u00b7 You have solid knowledge of modern build tools and working within the Node JS ecosystem.",
+            "\u00b7 You want to work within autonomous, cross-functional delivery teams collaborating on product delivery: UX, Service Design, Platform, Delivery, Ops.",
+            "\u00b7 You are familiar with software engineering best practices and principles like SOLID, KISS, DRY and YAGNI and practice it",
+            "\u00b7 You are experienced working within an Agile environment and with Continuous Delivery practices",
+            "\u00b7 You are good at communicating and have a passion for working hand in hand with designers",
+            "\u00b7 You have an ability to focus on customer needs and behaviours to craft compelling solutions",
+            "If the above sounds like something you're currently doing, something you believe you can do, or even something you would like to do, get in touch with us and let's have a chat.",
+            "We aim to provide feedback as soon as possible. In the meantime, if you have any feedback on the process we would be very keen to hear it. We are constantly looking for ways to improve and refine how we work so would love to hear what your side of the story is, good or bad.",
+            "This is a consulting SME / Practitioner role and may require domestic travel.",
+            "For more information, please, visit our website "
+        ],
+        "Job link": "https://stackoverflow.com/jobs/552505/full-stack-engineer-react-redux-angular-node-buildit"
+    },
+    {
+        "Job Title": "Hyper Automation Delivery Consultant - Gurgaon",
+        "Company": "SAP",
+        "Company logo image_url": "https://i.stack.imgur.com/FJ0PR.jpg",
+        "Location": "Gurgaon, India",
+        "Skills required": [
+            "automation",
+            "sql",
+            "cloud"
+        ],
+        "Perks offered": [
+            "Paid Family Leave",
+            "Enhanced Transgender Benefits",
+            "Health, Life, Dental Insurance",
+            "Competitive Salaries",
+            "Stock Program",
+            "Friendly & Collaborative Work Culture",
+            "Flexible Work Arrangements",
+            "Choose Your Own Hardware",
+            "Continuous Learning & Development",
+            "Ability to Work on Projects Outside of Daily Role"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Industry: ": "Cloud Services, Customer Experience Management, Enterprise Software",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            " ",
+            "   ",
+            "    ",
+            "       ",
+            "   #SOF2020  "
+        ],
+        "Job link": "https://stackoverflow.com/jobs/501111/hyper-automation-delivery-consultant-gurgaon-sap"
+    },
+    {
+        "Job Title": "Technical Lead (Vue.js)",
+        "Company": "Coda Payments",
+        "Company logo image_url": "https://i.stack.imgur.com/4YrrA.png",
+        "Location": "Mumbai, India",
+        "Skills required": [
+            "vue.js",
+            "javascript",
+            "git",
+            "webpack",
+            "node.js"
+        ],
+        "Perks offered": [
+            "Vacation leaves",
+            "Quarterly bonus",
+            "WFH support",
+            "Wellness benefit",
+            "Maternity/paternity leave"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Lead, Manager",
+            "Role: ": "Frontend Developer",
+            "Industry: ": "Financial Technology, Mobile Payments",
+            "Company size: ": "201-500 people",
+            "Company type: ": "VC Funded"
+        },
+        "Description": [
+            "You will be responsible for the front end architecting, development and reengineering for our e-commerce site and payment gateway. As the subject matter expert of the front end, you will be providing training to the full stack engineering team and work closely with our test automation team as well.",
+            "Reporting to the Director of Engineering, you will be leading our existing high-performing and dynamic front end team across different locations!"
+        ],
+        "Job link": "https://stackoverflow.com/jobs/550601/technical-lead-vuejs-coda-payments"
+    },
+    {
+        "Job Title": "Full Stack Engineer(Java, Node.js, Docker, Kubernetes, Jenkins)",
+        "Company": "buildit",
+        "Company logo image_url": "https://i.stack.imgur.com/1J6ah.png",
+        "Location": "Bengaluru, India",
+        "Skills required": [
+            "java",
+            "node.js",
+            "jenkins",
+            "kubernetes",
+            "docker"
+        ],
+        "Perks offered": [
+            "Company MacBook Pro",
+            "Regular onsite socials, meetups and events",
+            "Commitment to your training and development",
+            "Flexible benefits tailored to your needs, including commuter benefits",
+            "Pension",
+            "Healthcare, Dental, Vision and Life Assurance for you and your family",
+            "Flexible approach to working",
+            "Daily free breakfast"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Mid-Level",
+            "Role: ": "DevOps, Full Stack Developer",
+            "Industry: ": "Consulting, Information Technology, IT Consulting",
+            "Company size: ": "51-200 people",
+            "Company type: ": "Private"
+        },
+        "Description": [
+            "We are a specialist engineering practice within iDEAS/Wipro. We are structured as engineering and co-innovation studios globally.",
+            "We help our customers with design and build cloud-native business applications, accelerate product engineering and solve complex business problems through targeted intervention, leveraging multi-disciplinary - tools and modern engineering best practices.",
+            "Our global co-innovation studios are structured to enable our enterprise customers to learn and co-create new products by working side-by-side with our high-performance engineering team to develop MVP or fully featured products or technical business solutions at a rapid pace from ideation, design and architecture to industrialization with end-to-end accountability.",
+            "What we do:",
+            "\u00b7 ",
+            ": Targeted intervention to solve highly complex engineering problems or rescue at-risk engagements by a small group of experts.",
+            "\u00b7 ",
+            ": designed to help our customers to co-create tangible products in record time. From concept, design, architecture, rapid prototyping, MVP to industrialization.",
+            "\u00b7 ",
+            ": Fully customized high-impact training courses taught by practitioners (Agile, Lean etc.)",
+            "What you'll do",
+            "\u00b7 Consultative Engineering \u2013 Identify, articulate, and influence the shape of business outcomes through platform solutions across the business and technology landscape and across the lifecycle from concept, through realisation into production and back again. You will be able to balance the books between technology purism, best-practice, and solution-fit.",
+            "\u00b7 Collaborative Solutioning \u2013 We are looking for people who want to work in cross-functional teams, and want to help others learn how to build them, and why they're valuable; people with a grasp of a variety of technologies, languages, and methodologies, along with their pros and cons.",
+            "\u00b7 This role may require domestic or international travel, working directly at client location",
+            "\u00b7 You have 9+ years of experience.",
+            "\u00b7 You have excellent hands-on knowledge in at least one of the following backend related technology - Java, Kotlin, Node.js, Go or Python and the respective framework",
+            "\u00b7 You have knowledge of REST, Swagger and OpenAPI Specification",
+            "\u00b7 You understand messaging Technologies and Caches",
+            "\u00b7 You understand any database technologies",
+            "\u00b7 You have good knowledge of JavaScript (ES7+), solid HTML5 and CSS, automated testing, familiar with design systems, working hand in hand with UX and UI teams.",
+            "\u00b7 You have good knowledge in at least one of the SPA frameworks (React.js, Angular or Vue.js)",
+            "\u00b7 You have hands-on experience of platform and systems architecture \u2013 modular monoliths, SOA/micro-services, including enabling tools and technologies (Spring Cloud, Docker, OpenShift, Kubernetes, CloudFoundry, etc.)",
+            "\u00b7 You have hands-on experience of enabling technologies, principles, and practices of Continuous Integration, Delivery, and Deployment (Jenkins, Bamboo, Circle CI or equivalent)",
+            "\u00b7 You are familiar with the practices of TDD and BDD and write unit, functional, integration and system tests for your code",
+            "\u00b7 You are experienced working within an Agile environment and with Continuous Delivery practices",
+            "\u00b7 You are good at communicating and have a passion for working hand in hand with designers",
+            "\u00b7 You have an ability to focus on customer needs and behaviours to craft compelling solutions",
+            "If the above sounds like something you're currently doing, something you believe you can do, or even something you would like to do, get in touch with us and let's have a chat.",
+            "We aim to provide feedback as soon as possible. In the meantime, if you have any feedback on the process we would be very keen to hear it. We are constantly looking for ways to improve and refine how we work so would love to hear what your side of the story is, good or bad.",
+            "This is a consulting SME / Practitioner role and may require domestic travel.",
+            "For more information, please, visit our website "
+        ],
+        "Job link": "https://stackoverflow.com/jobs/552506/full-stack-engineer-java-nodejs-docker-buildit"
+    },
+    {
+        "Job Title": "Software Developer - Redis/Kafka/Elasticsearch/MongoDB",
+        "Company": "Worldline",
+        "Company logo image_url": "https://i.stack.imgur.com/XhMni.png",
+        "Location": "Mumbai, India",
+        "Skills required": [
+            "apache-kafka",
+            "mongodb",
+            "redis",
+            "elasticsearch",
+            "lucene"
+        ],
+        "Perks offered": [
+            "Flexible Working Hours",
+            "Remote Working",
+            "Stock Grants and Discounts",
+            "Expert Talent Tracks",
+            "Learning Days",
+            "Expert Communities",
+            "Additional Days Off",
+            "Global Mobility Program",
+            "Special achievements  - team recognition",
+            "Retirement Plans (vary by country)"
+        ],
+        "About this job": {
+            "Job type: ": "Full-time",
+            "Experience level: ": "Mid-Level",
+            "Industry: ": "Financial Technology, Mobile Payments, Payment Gateway",
+            "Company size: ": "10k+ people",
+            "Company type: ": "Public"
+        },
+        "Description": [
+            "At Worldline, our technology addresses the persistent challenges of the payment world. We have established ourselves as a leading developer of creative software solutions. If you are a highly skilled ",
+            ", then get ready to join our software technology center. You have a commanding knowledge of software development and validated experience in testing? If finding and crafting software solutions as well as finding issues and fixing them with appealing, meticulous code are among the tasks that you're passionate about, we'd like to hear from you."
+        ],
+        "Job link": "https://stackoverflow.com/jobs/536705/software-developer-redis-kafka-elasticsearch-worldline"
+    }
+]
